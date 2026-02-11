@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.bancoppel</groupId>
 	<artifactId>gitactionsJava3</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.3-SNAPSHOT</version>
 	<name>gitactionsJava3</name>
 	<description>Repositorio de pruebas para Git Actions Java 3</description>
 	<url/>
