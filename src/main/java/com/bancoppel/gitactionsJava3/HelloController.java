@@ -17,6 +17,6 @@ public class HelloController {
      */
     @GetMapping("/hello")
     public String hello() {
-        return "Hello World Global CICD Template Repo Java 3 Test v1.0.2";
+        return "Hello World Global CICD Template Repo Java 3 Test v1.0.4";
     }
 }
